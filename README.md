@@ -1,0 +1,1 @@
+This folder contains subfolder of tasks from **Business College Redux** class

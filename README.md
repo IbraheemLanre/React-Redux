@@ -1,1 +1,1 @@
-This folder contains subfolder of tasks from **Business College Redux** class
+This folder contains subfolder of tasks from **Redux** class
